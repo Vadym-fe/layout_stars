@@ -12,7 +12,7 @@ body {
   display: block;
   width: 16px;
   height: 16px;
-  background-image: url(images/star.svg);
+  background-image: url(/src/images/star.svg);
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 4px;
